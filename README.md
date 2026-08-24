@@ -1,6 +1,6 @@
 ## Steven Oliner
 
-**Master's of Cybersecurity Student**
+**Master of Cybersecurity & Threat Intelligence**
 
 ## About Me
 I'm a cybersecurity student keenly interested in offensive security. I am very passionate about my field and strive to learn something new about it every day.
