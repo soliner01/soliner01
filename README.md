@@ -1,6 +1,6 @@
 ## Steven Oliner
 
-**Master of Cybersecurity & Threat Intelligence**
+**Aspiring Penetration Tester**
 
 ## About Me
 I'm a cybersecurity graduate keenly interested in offensive security. I am very passionate about my field and strive to learn something new about it every day.
@@ -14,6 +14,7 @@ I'm a cybersecurity graduate keenly interested in offensive security. I am very 
 
 ## Projects
 - **Tempest** — Automation tool using FlaUI that collects data on program behaviour, allowing an anomaly-detection model to identify irregular or malicious behaviour involving tested programs
+- **Squall** — A lightweight static-analysis vulnerability scanner
 - **TryHackMe Write-Ups** — Detailed walkthroughs of how I completed TryHackMe CTF rooms
 
 ## Contact
